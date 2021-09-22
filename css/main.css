@@ -2587,7 +2587,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:900px) {
   .home-content h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 
   .home-content h3 {
@@ -2602,7 +2602,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:800px) {
   .home-content h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 
   .home-content h3 {
@@ -2640,7 +2640,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:700px) {
   .home-content h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 
   .home-content h3 {
